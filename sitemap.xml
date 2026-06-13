@@ -1,9 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://heydani.de/</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+    <image:image><image:loc>https://heydani.de/images/jewelry-01.jpg</image:loc><image:title>Samodivi</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-01.jpg</image:loc><image:title>3 Angels — Samodivi</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-02.jpg</image:loc><image:title>3 Angels — Samodivi</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-03.jpg</image:loc><image:title>3 Angels — Samodivi</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-04.jpg</image:loc><image:title>Waldberlin</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/jewelry-02.jpg</image:loc><image:title>Annalena Steindl</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/jewelry-03.jpg</image:loc><image:title>Annalena Steindl</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/jewelry-04.jpg</image:loc><image:title>Annalena Steindl</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/jewelry-05.jpg</image:loc><image:title>Annalena Steindl</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/jewelry-06.jpg</image:loc><image:title>Annalena Steindl</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-01.jpg</image:loc><image:title>Air Up</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-02.jpg</image:loc><image:title>Air Up</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-03.jpg</image:loc><image:title>Air Up</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-04.jpg</image:loc><image:title>Air Up</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-05.jpg</image:loc><image:title>Air Up</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-05.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-06.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-07.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-08.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-09.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-10.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-11.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-12.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-13.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-14.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-15.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-16.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-17.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-18.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-19.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-20.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-21.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-22.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/portraits-23.jpg</image:loc><image:title>Portrait</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-06.jpg</image:loc><image:title>Locke Berlin</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-07.jpg</image:loc><image:title>Locke Berlin</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-08.jpg</image:loc><image:title>Locke Berlin</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-09.jpg</image:loc><image:title>Locke Berlin</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-10.jpg</image:loc><image:title>Locke Berlin</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-11.jpg</image:loc><image:title>Locke Berlin</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-12.jpg</image:loc><image:title>Locke Berlin</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-13.jpg</image:loc><image:title>Locke Berlin</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-14.jpg</image:loc><image:title>Locke Berlin</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-15.jpg</image:loc><image:title>Locke Berlin</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-01.jpg</image:loc><image:title>San Beach Dubai</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-02.jpg</image:loc><image:title>San Beach Dubai</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-03.jpg</image:loc><image:title>San Beach Dubai</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-04.jpg</image:loc><image:title>Loom Bar — Marienplatz</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-05.jpg</image:loc><image:title>Loom Bar — Marienplatz</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-06.jpg</image:loc><image:title>Diffrent Times Munich</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-07.jpg</image:loc><image:title>Diffrent Times Munich</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-08.jpg</image:loc><image:title>Diffrent Times Munich</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-09.jpg</image:loc><image:title>Concert · @Hazesiebensechs</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-10.jpg</image:loc><image:title>Concert · @Hazesiebensechs</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-11.jpg</image:loc><image:title>Concert · @Hazesiebensechs</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-12.jpg</image:loc><image:title>Concert · @Hazesiebensechs</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-13.jpg</image:loc><image:title>Concert · @Hazesiebensechs</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-14.jpg</image:loc><image:title>Concert · @Hazesiebensechs</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-15.jpg</image:loc><image:title>DNA Open Air Munich</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-16.jpg</image:loc><image:title>DNA Open Air Munich</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-17.jpg</image:loc><image:title>DNA Open Air Munich</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-18.jpg</image:loc><image:title>DNA Open Air Munich</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-19.jpg</image:loc><image:title>Steel City DNA Club</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-20.jpg</image:loc><image:title>Steel City DNA Club</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-21.jpg</image:loc><image:title>Steel City DNA Club</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-22.jpg</image:loc><image:title>Steel City DNA Club</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-23.jpg</image:loc><image:title>Steel City DNA Club</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-24.jpg</image:loc><image:title>Steel City DNA Club</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-25.jpg</image:loc><image:title>Steel City DNA Club</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/events-26.jpg</image:loc><image:title>Steel City DNA Club</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-16.jpg</image:loc><image:title>Cevapino &amp; Funky Monkey</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-17.jpg</image:loc><image:title>Cevapino &amp; Funky Monkey</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-18.jpg</image:loc><image:title>Cevapino &amp; Funky Monkey</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-19.jpg</image:loc><image:title>Funky Monkey — Instagram Insights</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-20.jpg</image:loc><image:title>Funky Monkey — Audience Growth</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-21.jpg</image:loc><image:title>Funky Monkey — Reach &amp; Reels</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-22.jpg</image:loc><image:title>Cevapino &amp; Funky Monkey</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-23.jpg</image:loc><image:title>Cevapino &amp; Funky Monkey</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-24.jpg</image:loc><image:title>Cevapino &amp; Funky Monkey</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-25.jpg</image:loc><image:title>Cevapino &amp; Funky Monkey</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-26.jpg</image:loc><image:title>Cevapino &amp; Funky Monkey</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-27.jpg</image:loc><image:title>Cevapino &amp; Funky Monkey</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-28.jpg</image:loc><image:title>Cevapino &amp; Funky Monkey</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/branding-29.jpg</image:loc><image:title>Cevapino &amp; Funky Monkey</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-01.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-02.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-03.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-04.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-05.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-06.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-07.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-08.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-09.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-10.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-11.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-12.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-13.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-14.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-15.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-16.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-17.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-18.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-19.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-20.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/design-21.jpg</image:loc><image:title>Funky Monkey — Design</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/ai-01.jpg</image:loc><image:title>Mahagoni — Festival Trailer</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/ai-02.jpg</image:loc><image:title>Mahagoni — Festival Trailer</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/ai-03.jpg</image:loc><image:title>Mahagoni — Festival Trailer</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/ai-04.jpg</image:loc><image:title>Twojeys — AI Branding</image:title></image:image>
+    <image:image><image:loc>https://heydani.de/images/ai-05.jpg</image:loc><image:title>Twojeys — AI Branding</image:title></image:image>
   </url>
 </urlset>
