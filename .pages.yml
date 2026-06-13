@@ -1,0 +1,111 @@
+media:
+  input: images
+  output: /images
+  extensions: [jpg, jpeg, png, webp, gif]
+  categories: [image]
+
+content:
+  - name: photos
+    label: Photos
+    type: file
+    path: photos.json
+    fields:
+      - name: items
+        label: Photos
+        type: object
+        list: true
+        fields:
+          - name: image
+            label: Photo
+            type: image
+            required: true
+          - name: category
+            label: Tab
+            type: select
+            options:
+              values:
+                - { name: events, label: Events }
+                - { name: portraits, label: Portraits }
+                - { name: jewelry, label: Jewelry }
+                - { name: branding, label: Branding }
+                - { name: design, label: Design }
+                - { name: ai, label: AI }
+          - name: title
+            label: Title (shown under the photo)
+            type: string
+
+  - name: texts
+    label: Texts & headings
+    type: file
+    path: content.json
+    description: "Tip: put a word in *asterisks* to show it in the elegant italic style, e.g. Selected *Work*."
+    fields:
+      - name: brandName
+        label: Brand name (top left)
+        type: string
+      - name: brandSub
+        label: Brand subtitle
+        type: string
+      - name: heroEyebrow
+        label: Hero - small label above title
+        type: string
+      - name: heroTitle
+        label: Hero - big title (one line per row, *word* = italic)
+        type: text
+      - name: heroLead
+        label: Hero - subtitle paragraph
+        type: text
+      - name: heroMeta1
+        label: Hero - small note 1
+        type: string
+      - name: heroMeta2
+        label: Hero - small note 2
+        type: string
+      - name: workTitle
+        label: Work section - heading (*word* = italic)
+        type: string
+      - name: aboutEyebrow
+        label: About - small label
+        type: string
+      - name: aboutTitle
+        label: About - heading (*word* = italic)
+        type: string
+      - name: aboutText1
+        label: About - paragraph 1
+        type: text
+      - name: aboutText2
+        label: About - paragraph 2
+        type: text
+      - name: aboutTags
+        label: About - tags (comma separated)
+        type: text
+      - name: contactEyebrow
+        label: Contact - small label
+        type: string
+      - name: contactTitle
+        label: Contact - heading (*word* = italic)
+        type: string
+      - name: footerRight
+        label: Footer - right text
+        type: string
+
+  - name: settings
+    label: Contact & media
+    type: file
+    path: settings.json
+    fields:
+      - name: about
+        label: About photo
+        type: image
+      - name: email
+        label: Contact email
+        type: string
+      - name: instagram
+        label: Instagram URL
+        type: string
+      - name: behance
+        label: Behance URL
+        type: string
+      - name: linkedin
+        label: LinkedIn URL
+        type: string
