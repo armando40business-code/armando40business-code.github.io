@@ -112,12 +112,12 @@
     },
     {
       "image": "/images/portraits-12.jpg",
-      "category": "portraits",
+      "category": "jewelry",
       "title": "Portrait"
     },
     {
       "image": "/images/portraits-13.jpg",
-      "category": "portraits",
+      "category": "jewelry",
       "title": "Portrait"
     },
     {
@@ -137,11 +137,6 @@
     },
     {
       "image": "/images/portraits-17.jpg",
-      "category": "portraits",
-      "title": "Portrait"
-    },
-    {
-      "image": "/images/portraits-18.jpg",
       "category": "portraits",
       "title": "Portrait"
     },
