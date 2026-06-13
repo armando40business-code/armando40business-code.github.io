@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://armando40business-code.github.io/sitemap.xml
+Sitemap: https://heydani.de/sitemap.xml
