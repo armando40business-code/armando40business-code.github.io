@@ -33,9 +33,13 @@ content:
                 - { name: branding, label: Branding }
                 - { name: design, label: Design }
                 - { name: ai, label: AI (KI-Visuals) }
+                - { name: references, label: Referenzen / Case Study }
           - name: title
             label: Titel (erscheint unter dem Foto)
             type: string
+          - name: featured
+            label: "Auf der Startseite (Highlights) zeigen"
+            type: boolean
 
   - name: texts
     label: Texte & Überschriften

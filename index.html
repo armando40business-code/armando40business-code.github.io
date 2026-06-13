@@ -147,13 +147,14 @@
   <div class="work-head">
     <h2 id="workTitle">Selected <em>Work</em></h2>
     <div class="filters" id="filters">
-      <button class="active" data-cat="all">All</button>
+      <button class="active" data-cat="all">Highlights</button>
       <button data-cat="events">Events</button>
       <button data-cat="portraits">Portraits</button>
       <button data-cat="jewelry">Jewelry</button>
       <button data-cat="branding">Branding</button>
       <button data-cat="design">Design</button>
       <button data-cat="ai">AI</button>
+      <button data-cat="references">References</button>
     </div>
   </div>
   <div class="gallery" id="gallery"></div>
@@ -198,6 +199,7 @@ async function load(){
   try{ const d=await (await fetch("photos.json?"+Date.now())).json(); PHOTOS=(d.items||[]).filter(p=>p&&p.image); }
   catch(e){ PHOTOS=[]; }
   buildGallery();
+  applyFilter("all");
   try{ applyContent(await (await fetch("content.json?"+Date.now())).json()); }catch(e){}
   try{ applySettings(await (await fetch("settings.json?"+Date.now())).json()); }catch(e){}
 }
@@ -234,7 +236,7 @@ function setSocial(id,url){const a=document.getElementById(id);if(url){a.href=ur
 function buildGallery(){
   gallery.innerHTML="";items=[];
   PHOTOS.forEach((p,i)=>{
-    const div=document.createElement("div");div.className="item";div.dataset.cat=p.category||"";
+    const div=document.createElement("div");div.className="item";div.dataset.cat=p.category||"";div.dataset.featured=(p.featured===true||p.featured==="true")?"1":"0";
     const frame=document.createElement("div");frame.className="frame";
     const img=document.createElement("img");img.src=p.image;img.alt=p.title||"";img.loading="lazy";
     frame.appendChild(img);div.appendChild(frame);
@@ -252,8 +254,17 @@ document.getElementById("filters").addEventListener("click",e=>{
   document.querySelectorAll("#filters button").forEach(b=>b.classList.remove("active"));
   e.target.classList.add("active");
   const cat=e.target.dataset.cat;
-  items.forEach(it=>it.classList.toggle("hide",!(cat==="all"||it.dataset.cat===cat)));
+  applyFilter(cat);
 });
+function applyFilter(cat){
+  const anyFeatured=PHOTOS.some(p=>p.featured===true||p.featured==="true");
+  items.forEach((it)=>{
+    const c=it.dataset.cat; let show;
+    if(cat==="all"){ show=(c!=="references") && (anyFeatured ? it.dataset.featured==="1" : true); }
+    else { show=(c===cat); }
+    it.classList.toggle("hide",!show);
+  });
+}
 const lb=document.getElementById("lightbox"),lbImg=document.getElementById("lbImg"),lbCap=document.getElementById("lbCap");
 function visible(){return PHOTOS.map((p,i)=>i).filter(i=>!items[i].classList.contains("hide"))}
 function show(i){cur=i;lbImg.src=PHOTOS[i].image;lbCap.textContent=(PHOTOS[i].title||"")+" · "+(PHOTOS[i].category||"")}

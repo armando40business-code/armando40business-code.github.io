@@ -22,7 +22,7 @@
     },
     {
       "image": "/images/portraits-04.jpg",
-      "category": "jewelry",
+      "category": "portraits",
       "title": "Waldberlin"
     },
     {
@@ -112,12 +112,12 @@
     },
     {
       "image": "/images/portraits-12.jpg",
-      "category": "jewelry",
+      "category": "portraits",
       "title": "Portrait"
     },
     {
       "image": "/images/portraits-13.jpg",
-      "category": "jewelry",
+      "category": "portraits",
       "title": "Portrait"
     },
     {
@@ -137,6 +137,11 @@
     },
     {
       "image": "/images/portraits-17.jpg",
+      "category": "portraits",
+      "title": "Portrait"
+    },
+    {
+      "image": "/images/portraits-18.jpg",
       "category": "portraits",
       "title": "Portrait"
     },
@@ -362,18 +367,18 @@
     },
     {
       "image": "/images/branding-19.jpg",
-      "category": "branding",
-      "title": "Cevapino & Funky Monkey"
+      "category": "references",
+      "title": "Funky Monkey — Instagram Insights"
     },
     {
       "image": "/images/branding-20.jpg",
-      "category": "branding",
-      "title": "Cevapino & Funky Monkey"
+      "category": "references",
+      "title": "Funky Monkey — Audience Growth"
     },
     {
       "image": "/images/branding-21.jpg",
-      "category": "branding",
-      "title": "Cevapino & Funky Monkey"
+      "category": "references",
+      "title": "Funky Monkey — Reach & Reels"
     },
     {
       "image": "/images/branding-22.jpg",
