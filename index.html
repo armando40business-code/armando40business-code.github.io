@@ -5,9 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>DANI V. — Fotografin &amp; Creative aus München</title>
 <meta name="description" content="Dani V. — creative based in Munich. Photography, videography, graphic design and AI-generated visuals." />
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@300;400;500;600&family=Newsreader:ital,opsz@1,6..72&display=swap" rel="stylesheet">
+<style>
+@font-face{font-family:'Hanken Grotesk';font-style:normal;font-weight:300;font-display:swap;src:url('/fonts/hanken-300.woff2') format('woff2')}
+@font-face{font-family:'Hanken Grotesk';font-style:normal;font-weight:400;font-display:swap;src:url('/fonts/hanken-400.woff2') format('woff2')}
+@font-face{font-family:'Hanken Grotesk';font-style:normal;font-weight:500;font-display:swap;src:url('/fonts/hanken-500.woff2') format('woff2')}
+@font-face{font-family:'Hanken Grotesk';font-style:normal;font-weight:600;font-display:swap;src:url('/fonts/hanken-600.woff2') format('woff2')}
+@font-face{font-family:'Newsreader';font-style:italic;font-weight:400;font-display:swap;src:url('/fonts/newsreader-italic.woff2') format('woff2')}
+</style>
 <style>
   :root{--paper:#f7f4ef;--paper-2:#efe9e1;--ink:#211f1b;--ink-soft:#7a746b;--hair:rgba(33,31,27,.13);--accent:#8a7b66;
     --sans:"Hanken Grotesk",system-ui,sans-serif;--serif:"Newsreader",Georgia,serif}
@@ -90,7 +94,8 @@
   }
 </style>
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-  <link rel="apple-touch-icon" href="/favicon.svg" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="manifest" href="/site.webmanifest" />
   <!-- SEO / Social (von Claude eingefügt – Design unverändert) -->
   <link rel="canonical" href="https://heydani.de/" />
   <meta name="author" content="Dani V." />
@@ -133,6 +138,9 @@
     "knowsAbout": ["Photography", "Videography", "Branding", "Graphic Design", "AI Visuals"],
     "sameAs": ["https://instagram.com/dani.dmde/"]
   }
+  </script>
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"WebSite","name":"DANI V.","url":"https://heydani.de/"}
   </script>
 </head>
 <body>
@@ -242,7 +250,7 @@ function buildGallery(){
   PHOTOS.forEach((p,i)=>{
     const div=document.createElement("div");div.className="item";div.dataset.cat=p.category||"";div.dataset.featured=(p.featured===true||p.featured==="true")?"1":"0";
     const frame=document.createElement("div");frame.className="frame";
-    const img=document.createElement("img");img.src=p.image;img.alt=p.title||"";img.loading="lazy";
+    const img=document.createElement("img");img.src=p.image;img.alt=p.title||"";img.loading="lazy";img.decoding="async";
     frame.appendChild(img);div.appendChild(frame);
     const cap=document.createElement("div");cap.className="cap";
     cap.innerHTML='<span class="t">'+esc(p.title||"")+'</span><span class="s">'+esc(p.category||"")+'</span>';
@@ -271,7 +279,7 @@ function applyFilter(cat){
 }
 const lb=document.getElementById("lightbox"),lbImg=document.getElementById("lbImg"),lbCap=document.getElementById("lbCap");
 function visible(){return PHOTOS.map((p,i)=>i).filter(i=>!items[i].classList.contains("hide"))}
-function show(i){cur=i;lbImg.src=PHOTOS[i].image;lbCap.textContent=(PHOTOS[i].title||"")+" · "+(PHOTOS[i].category||"")}
+function show(i){cur=i;lbImg.src=PHOTOS[i].image;lbImg.alt=PHOTOS[i].title||"";lbCap.textContent=(PHOTOS[i].title||"")+" · "+(PHOTOS[i].category||"")}
 function openLightbox(i){show(i);lb.classList.add("open")}
 function step(d){const v=visible();let p=v.indexOf(cur);p=(p+d+v.length)%v.length;show(v[p])}
 document.getElementById("lbClose").onclick=()=>lb.classList.remove("open");
