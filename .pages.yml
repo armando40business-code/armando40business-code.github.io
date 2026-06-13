@@ -6,106 +6,110 @@ media:
 
 content:
   - name: photos
-    label: Photos
+    label: Fotos
     type: file
     path: photos.json
+    description: "So verwaltest du alle Fotos: Neues Foto = unten auf „Add an entry“. Reihenfolge ändern = Eintrag am Griff (⋮⋮) ziehen. Löschen = Mülleimer-Symbol. Ganz oben rechts auf „Save“ tippen – nach ca. 1 Minute ist alles live."
     fields:
       - name: items
-        label: Photos
+        label: Fotos
         type: object
         list: true
         fields:
           - name: image
-            label: Photo
+            label: Foto
             type: image
             required: true
+            description: "Foto hochladen – am Handy direkt aus der Galerie."
           - name: category
-            label: Tab
+            label: Reiter / Kategorie
             type: select
+            description: "In welchem Reiter der Website soll das Foto erscheinen?"
             options:
               values:
                 - { name: events, label: Events }
                 - { name: portraits, label: Portraits }
-                - { name: jewelry, label: Jewelry }
+                - { name: jewelry, label: Jewelry (Schmuck) }
                 - { name: branding, label: Branding }
                 - { name: design, label: Design }
-                - { name: ai, label: AI }
+                - { name: ai, label: AI (KI-Visuals) }
           - name: title
-            label: Title (shown under the photo)
+            label: Titel (erscheint unter dem Foto)
             type: string
 
   - name: texts
-    label: Texts & headings
+    label: Texte & Überschriften
     type: file
     path: content.json
-    description: "Tip: put a word in *asterisks* to show it in the elegant italic style, e.g. Selected *Work*."
+    description: "Hier änderst du alle Texte der Website. Tipp: Ein Wort in *Sternchen* setzen → es erscheint in der eleganten Kursiv-Schrift, z. B. Selected *Work*."
     fields:
       - name: brandName
-        label: Brand name (top left)
+        label: Name oben links
         type: string
       - name: brandSub
-        label: Brand subtitle
+        label: Untertitel (klein, unter dem Namen)
         type: string
       - name: heroEyebrow
-        label: Hero - small label above title
+        label: Startseite – kleine Zeile über dem Titel
         type: string
       - name: heroTitle
-        label: Hero - big title (one line per row, *word* = italic)
+        label: Startseite – großer Titel (jede Zeile in eine eigene Zeile, *Wort* = kursiv)
         type: text
       - name: heroLead
-        label: Hero - subtitle paragraph
+        label: Startseite – Untertitel-Absatz
         type: text
       - name: heroMeta1
-        label: Hero - small note 1
+        label: Startseite – kleiner Hinweis 1
         type: string
       - name: heroMeta2
-        label: Hero - small note 2
+        label: Startseite – kleiner Hinweis 2
         type: string
       - name: workTitle
-        label: Work section - heading (*word* = italic)
+        label: Bereich „Arbeiten“ – Überschrift (*Wort* = kursiv)
         type: string
       - name: aboutEyebrow
-        label: About - small label
+        label: Über mich – kleine Zeile
         type: string
       - name: aboutTitle
-        label: About - heading (*word* = italic)
+        label: Über mich – Überschrift (*Wort* = kursiv)
         type: string
       - name: aboutText1
-        label: About - paragraph 1
+        label: Über mich – Absatz 1
         type: text
       - name: aboutText2
-        label: About - paragraph 2
+        label: Über mich – Absatz 2
         type: text
       - name: aboutTags
-        label: About - tags (comma separated)
+        label: Über mich – Stichworte (mit Komma getrennt)
         type: text
       - name: contactEyebrow
-        label: Contact - small label
+        label: Kontakt – kleine Zeile
         type: string
       - name: contactTitle
-        label: Contact - heading (*word* = italic)
+        label: Kontakt – Überschrift (*Wort* = kursiv)
         type: string
       - name: footerRight
-        label: Footer - right text
+        label: Fußzeile – Text rechts
         type: string
 
   - name: settings
-    label: Contact & media
+    label: Kontakt & Medien
     type: file
     path: settings.json
+    description: "Kontaktdaten und Social-Media-Links. Diese erscheinen im Kontaktbereich der Website."
     fields:
       - name: about
-        label: About photo
+        label: Über-mich-Foto
         type: image
       - name: email
-        label: Contact email
+        label: Kontakt-E-Mail
         type: string
       - name: instagram
-        label: Instagram URL
+        label: Instagram-Link
         type: string
       - name: behance
-        label: Behance URL
+        label: Behance-Link
         type: string
       - name: linkedin
-        label: LinkedIn URL
+        label: LinkedIn-Link
         type: string
