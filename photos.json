@@ -8,25 +8,25 @@
     },
     {
       "image": "/images/portraits-01.jpg",
-      "category": "portraits",
+      "category": "jewelry",
       "title": "3 Angels — Samodivi",
       "featured": false
     },
     {
       "image": "/images/portraits-02.jpg",
-      "category": "portraits",
+      "category": "jewelry",
       "title": "3 Angels — Samodivi",
-      "featured": false
+      "featured": true
     },
     {
       "image": "/images/portraits-03.jpg",
-      "category": "portraits",
+      "category": "jewelry",
       "title": "3 Angels — Samodivi",
       "featured": false
     },
     {
       "image": "/images/portraits-04.jpg",
-      "category": "portraits",
+      "category": "jewelry",
       "title": "Waldberlin",
       "featured": true
     },
