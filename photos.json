@@ -3,552 +3,662 @@
     {
       "image": "/images/jewelry-01.jpg",
       "category": "jewelry",
-      "title": "Samodivi"
+      "title": "Samodivi",
+      "featured": false
     },
     {
       "image": "/images/portraits-01.jpg",
       "category": "portraits",
-      "title": "3 Angels — Samodivi"
+      "title": "3 Angels — Samodivi",
+      "featured": false
     },
     {
       "image": "/images/portraits-02.jpg",
       "category": "portraits",
-      "title": "3 Angels — Samodivi"
+      "title": "3 Angels — Samodivi",
+      "featured": false
     },
     {
       "image": "/images/portraits-03.jpg",
       "category": "portraits",
-      "title": "3 Angels — Samodivi"
+      "title": "3 Angels — Samodivi",
+      "featured": false
     },
     {
       "image": "/images/portraits-04.jpg",
       "category": "portraits",
-      "title": "Waldberlin"
+      "title": "Waldberlin",
+      "featured": true
     },
     {
       "image": "/images/jewelry-02.jpg",
       "category": "jewelry",
-      "title": "Annalena Steindl"
+      "title": "Annalena Steindl",
+      "featured": true
     },
     {
       "image": "/images/jewelry-03.jpg",
       "category": "jewelry",
-      "title": "Annalena Steindl"
+      "title": "Annalena Steindl",
+      "featured": false
     },
     {
       "image": "/images/jewelry-04.jpg",
       "category": "jewelry",
-      "title": "Annalena Steindl"
+      "title": "Annalena Steindl",
+      "featured": false
     },
     {
       "image": "/images/jewelry-05.jpg",
       "category": "jewelry",
-      "title": "Annalena Steindl"
+      "title": "Annalena Steindl",
+      "featured": false
     },
     {
       "image": "/images/jewelry-06.jpg",
       "category": "jewelry",
-      "title": "Annalena Steindl"
+      "title": "Annalena Steindl",
+      "featured": true
     },
     {
       "image": "/images/branding-01.jpg",
       "category": "branding",
-      "title": "Air Up"
+      "title": "Air Up",
+      "featured": false
     },
     {
       "image": "/images/branding-02.jpg",
       "category": "branding",
-      "title": "Air Up"
+      "title": "Air Up",
+      "featured": true
     },
     {
       "image": "/images/branding-03.jpg",
       "category": "branding",
-      "title": "Air Up"
+      "title": "Air Up",
+      "featured": false
     },
     {
       "image": "/images/branding-04.jpg",
       "category": "branding",
-      "title": "Air Up"
+      "title": "Air Up",
+      "featured": true
     },
     {
       "image": "/images/branding-05.jpg",
       "category": "branding",
-      "title": "Air Up"
+      "title": "Air Up",
+      "featured": false
     },
     {
       "image": "/images/portraits-05.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": false
     },
     {
       "image": "/images/portraits-06.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": false
     },
     {
       "image": "/images/portraits-07.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": true
     },
     {
       "image": "/images/portraits-08.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": false
     },
     {
       "image": "/images/portraits-09.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": false
     },
     {
       "image": "/images/portraits-10.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": false
     },
     {
       "image": "/images/portraits-11.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": true
     },
     {
       "image": "/images/portraits-12.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": true
     },
     {
       "image": "/images/portraits-13.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": true
     },
     {
       "image": "/images/portraits-14.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": true
     },
     {
       "image": "/images/portraits-15.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": false
     },
     {
       "image": "/images/portraits-16.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": true
     },
     {
       "image": "/images/portraits-17.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": false
     },
     {
       "image": "/images/portraits-18.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": false
     },
     {
       "image": "/images/portraits-19.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": true
     },
     {
       "image": "/images/portraits-20.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": true
     },
     {
       "image": "/images/portraits-21.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": false
     },
     {
       "image": "/images/portraits-22.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": true
     },
     {
       "image": "/images/portraits-23.jpg",
       "category": "portraits",
-      "title": "Portrait"
+      "title": "Portrait",
+      "featured": false
     },
     {
       "image": "/images/branding-06.jpg",
       "category": "branding",
-      "title": "Locke Berlin"
+      "title": "Locke Berlin",
+      "featured": false
     },
     {
       "image": "/images/branding-07.jpg",
       "category": "branding",
-      "title": "Locke Berlin"
+      "title": "Locke Berlin",
+      "featured": false
     },
     {
       "image": "/images/branding-08.jpg",
       "category": "branding",
-      "title": "Locke Berlin"
+      "title": "Locke Berlin",
+      "featured": false
     },
     {
       "image": "/images/branding-09.jpg",
       "category": "branding",
-      "title": "Locke Berlin"
+      "title": "Locke Berlin",
+      "featured": false
     },
     {
       "image": "/images/branding-10.jpg",
       "category": "branding",
-      "title": "Locke Berlin"
+      "title": "Locke Berlin",
+      "featured": false
     },
     {
       "image": "/images/branding-11.jpg",
       "category": "branding",
-      "title": "Locke Berlin"
+      "title": "Locke Berlin",
+      "featured": false
     },
     {
       "image": "/images/branding-12.jpg",
       "category": "branding",
-      "title": "Locke Berlin"
+      "title": "Locke Berlin",
+      "featured": false
     },
     {
       "image": "/images/branding-13.jpg",
       "category": "branding",
-      "title": "Locke Berlin"
+      "title": "Locke Berlin",
+      "featured": false
     },
     {
       "image": "/images/branding-14.jpg",
       "category": "branding",
-      "title": "Locke Berlin"
+      "title": "Locke Berlin",
+      "featured": false
     },
     {
       "image": "/images/branding-15.jpg",
       "category": "branding",
-      "title": "Locke Berlin"
+      "title": "Locke Berlin",
+      "featured": false
     },
     {
       "image": "/images/events-01.jpg",
       "category": "events",
-      "title": "San Beach Dubai"
+      "title": "San Beach Dubai",
+      "featured": false
     },
     {
       "image": "/images/events-02.jpg",
       "category": "events",
-      "title": "San Beach Dubai"
+      "title": "San Beach Dubai",
+      "featured": false
     },
     {
       "image": "/images/events-03.jpg",
       "category": "events",
-      "title": "San Beach Dubai"
+      "title": "San Beach Dubai",
+      "featured": false
     },
     {
       "image": "/images/events-04.jpg",
       "category": "events",
-      "title": "Loom Bar — Marienplatz"
+      "title": "Loom Bar — Marienplatz",
+      "featured": false
     },
     {
       "image": "/images/events-05.jpg",
       "category": "events",
-      "title": "Loom Bar — Marienplatz"
+      "title": "Loom Bar — Marienplatz",
+      "featured": true
     },
     {
       "image": "/images/events-06.jpg",
       "category": "events",
-      "title": "Diffrent Times Munich"
+      "title": "Diffrent Times Munich",
+      "featured": true
     },
     {
       "image": "/images/events-07.jpg",
       "category": "events",
-      "title": "Diffrent Times Munich"
+      "title": "Diffrent Times Munich",
+      "featured": true
     },
     {
       "image": "/images/events-08.jpg",
       "category": "events",
-      "title": "Diffrent Times Munich"
+      "title": "Diffrent Times Munich",
+      "featured": false
     },
     {
       "image": "/images/events-09.jpg",
       "category": "events",
-      "title": "Concert · @Hazesiebensechs"
+      "title": "Concert · @Hazesiebensechs",
+      "featured": false
     },
     {
       "image": "/images/events-10.jpg",
       "category": "events",
-      "title": "Concert · @Hazesiebensechs"
+      "title": "Concert · @Hazesiebensechs",
+      "featured": false
     },
     {
       "image": "/images/events-11.jpg",
       "category": "events",
-      "title": "Concert · @Hazesiebensechs"
+      "title": "Concert · @Hazesiebensechs",
+      "featured": true
     },
     {
       "image": "/images/events-12.jpg",
       "category": "events",
-      "title": "Concert · @Hazesiebensechs"
+      "title": "Concert · @Hazesiebensechs",
+      "featured": true
     },
     {
       "image": "/images/events-13.jpg",
       "category": "events",
-      "title": "Concert · @Hazesiebensechs"
+      "title": "Concert · @Hazesiebensechs",
+      "featured": true
     },
     {
       "image": "/images/events-14.jpg",
       "category": "events",
-      "title": "Concert · @Hazesiebensechs"
+      "title": "Concert · @Hazesiebensechs",
+      "featured": false
     },
     {
       "image": "/images/events-15.jpg",
       "category": "events",
-      "title": "DNA Open Air Munich"
+      "title": "DNA Open Air Munich",
+      "featured": true
     },
     {
       "image": "/images/events-16.jpg",
       "category": "events",
-      "title": "DNA Open Air Munich"
+      "title": "DNA Open Air Munich",
+      "featured": false
     },
     {
       "image": "/images/events-17.jpg",
       "category": "events",
-      "title": "DNA Open Air Munich"
+      "title": "DNA Open Air Munich",
+      "featured": true
     },
     {
       "image": "/images/events-18.jpg",
       "category": "events",
-      "title": "DNA Open Air Munich"
+      "title": "DNA Open Air Munich",
+      "featured": false
     },
     {
       "image": "/images/events-19.jpg",
       "category": "events",
-      "title": "Steel City DNA Club"
+      "title": "Steel City DNA Club",
+      "featured": false
     },
     {
       "image": "/images/events-20.jpg",
       "category": "events",
-      "title": "Steel City DNA Club"
+      "title": "Steel City DNA Club",
+      "featured": true
     },
     {
       "image": "/images/events-21.jpg",
       "category": "events",
-      "title": "Steel City DNA Club"
+      "title": "Steel City DNA Club",
+      "featured": false
     },
     {
       "image": "/images/events-22.jpg",
       "category": "events",
-      "title": "Steel City DNA Club"
+      "title": "Steel City DNA Club",
+      "featured": false
     },
     {
       "image": "/images/events-23.jpg",
       "category": "events",
-      "title": "Steel City DNA Club"
+      "title": "Steel City DNA Club",
+      "featured": false
     },
     {
       "image": "/images/events-24.jpg",
       "category": "events",
-      "title": "Steel City DNA Club"
+      "title": "Steel City DNA Club",
+      "featured": true
     },
     {
       "image": "/images/events-25.jpg",
       "category": "events",
-      "title": "Steel City DNA Club"
+      "title": "Steel City DNA Club",
+      "featured": true
     },
     {
       "image": "/images/events-26.jpg",
       "category": "events",
-      "title": "Steel City DNA Club"
+      "title": "Steel City DNA Club",
+      "featured": true
     },
     {
       "image": "/images/branding-16.jpg",
       "category": "branding",
-      "title": "Cevapino & Funky Monkey"
+      "title": "Cevapino & Funky Monkey",
+      "featured": false
     },
     {
       "image": "/images/branding-17.jpg",
       "category": "branding",
-      "title": "Cevapino & Funky Monkey"
+      "title": "Cevapino & Funky Monkey",
+      "featured": false
     },
     {
       "image": "/images/branding-18.jpg",
       "category": "branding",
-      "title": "Cevapino & Funky Monkey"
+      "title": "Cevapino & Funky Monkey",
+      "featured": false
     },
     {
       "image": "/images/branding-19.jpg",
       "category": "references",
-      "title": "Funky Monkey — Instagram Insights"
+      "title": "Funky Monkey — Instagram Insights",
+      "featured": false
     },
     {
       "image": "/images/branding-20.jpg",
       "category": "references",
-      "title": "Funky Monkey — Audience Growth"
+      "title": "Funky Monkey — Audience Growth",
+      "featured": false
     },
     {
       "image": "/images/branding-21.jpg",
       "category": "references",
-      "title": "Funky Monkey — Reach & Reels"
+      "title": "Funky Monkey — Reach & Reels",
+      "featured": false
     },
     {
       "image": "/images/branding-22.jpg",
       "category": "branding",
-      "title": "Cevapino & Funky Monkey"
+      "title": "Cevapino & Funky Monkey",
+      "featured": false
     },
     {
       "image": "/images/branding-23.jpg",
       "category": "branding",
-      "title": "Cevapino & Funky Monkey"
+      "title": "Cevapino & Funky Monkey",
+      "featured": false
     },
     {
       "image": "/images/branding-24.jpg",
       "category": "branding",
-      "title": "Cevapino & Funky Monkey"
+      "title": "Cevapino & Funky Monkey",
+      "featured": false
     },
     {
       "image": "/images/branding-25.jpg",
       "category": "branding",
-      "title": "Cevapino & Funky Monkey"
+      "title": "Cevapino & Funky Monkey",
+      "featured": false
     },
     {
       "image": "/images/branding-26.jpg",
       "category": "branding",
-      "title": "Cevapino & Funky Monkey"
+      "title": "Cevapino & Funky Monkey",
+      "featured": false
     },
     {
       "image": "/images/branding-27.jpg",
       "category": "branding",
-      "title": "Cevapino & Funky Monkey"
+      "title": "Cevapino & Funky Monkey",
+      "featured": false
     },
     {
       "image": "/images/branding-28.jpg",
       "category": "branding",
-      "title": "Cevapino & Funky Monkey"
+      "title": "Cevapino & Funky Monkey",
+      "featured": false
     },
     {
       "image": "/images/branding-29.jpg",
       "category": "branding",
-      "title": "Cevapino & Funky Monkey"
+      "title": "Cevapino & Funky Monkey",
+      "featured": false
     },
     {
       "image": "/images/design-01.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-02.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-03.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-04.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-05.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-06.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-07.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-08.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-09.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-10.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-11.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-12.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-13.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-14.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-15.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-16.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-17.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-18.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-19.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-20.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/design-21.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design"
+      "title": "Funky Monkey — Design",
+      "featured": false
     },
     {
       "image": "/images/ai-01.jpg",
       "category": "ai",
-      "title": "Mahagoni — Festival Trailer"
+      "title": "Mahagoni — Festival Trailer",
+      "featured": false
     },
     {
       "image": "/images/ai-02.jpg",
       "category": "ai",
-      "title": "Mahagoni — Festival Trailer"
+      "title": "Mahagoni — Festival Trailer",
+      "featured": false
     },
     {
       "image": "/images/ai-03.jpg",
       "category": "ai",
-      "title": "Mahagoni — Festival Trailer"
+      "title": "Mahagoni — Festival Trailer",
+      "featured": false
     },
     {
       "image": "/images/ai-04.jpg",
       "category": "ai",
-      "title": "Twojeys — AI Branding"
+      "title": "Twojeys — AI Branding",
+      "featured": false
     },
     {
       "image": "/images/ai-05.jpg",
       "category": "ai",
-      "title": "Twojeys — AI Branding"
+      "title": "Twojeys — AI Branding",
+      "featured": false
     }
   ]
 }
