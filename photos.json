@@ -346,7 +346,7 @@
       "image": "/images/events-14.jpg",
       "category": "events",
       "title": "Concert · @Hazesiebensechs",
-      "featured": false
+      "featured": true
     },
     {
       "image": "/images/events-15.jpg",
@@ -392,7 +392,7 @@
     },
     {
       "image": "/images/events-22.jpg",
-      "category": "events",
+      "category": "references",
       "title": "Steel City DNA Club",
       "featured": false
     },
