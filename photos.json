@@ -181,12 +181,6 @@
       "featured": true
     },
     {
-      "image": "/images/portraits-23.jpg",
-      "category": "portraits",
-      "title": "Portrait",
-      "featured": false
-    },
-    {
       "image": "/images/branding-06.jpg",
       "category": "branding",
       "title": "Locke Berlin",
@@ -230,12 +224,6 @@
     },
     {
       "image": "/images/branding-14.jpg",
-      "category": "branding",
-      "title": "Locke Berlin",
-      "featured": false
-    },
-    {
-      "image": "/images/branding-15.jpg",
       "category": "branding",
       "title": "Locke Berlin",
       "featured": false
@@ -295,21 +283,9 @@
       "featured": true
     },
     {
-      "image": "/images/events-13.jpg",
-      "category": "events",
-      "title": "Concert · @Hazesiebensechs",
-      "featured": true
-    },
-    {
       "image": "/images/events-14.jpg",
       "category": "events",
       "title": "Concert · @Hazesiebensechs",
-      "featured": true
-    },
-    {
-      "image": "/images/events-15.jpg",
-      "category": "events",
-      "title": "DNA Open Air Munich",
       "featured": true
     },
     {
