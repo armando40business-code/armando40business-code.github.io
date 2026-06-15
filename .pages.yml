@@ -32,7 +32,7 @@ content:
                 - { name: jewelry, label: Jewelry (Schmuck) }
                 - { name: branding, label: Branding }
                 - { name: design, label: Design }
-                - { name: ai, label: AI (KI-Visuals) }
+                - { name: visuals, label: Visuals }
                 - { name: references, label: Referenzen / Case Study }
           - name: title
             label: Titel (erscheint unter dem Foto)
@@ -40,6 +40,10 @@ content:
           - name: featured
             label: "Auf der Startseite (Highlights) zeigen"
             type: boolean
+          - name: video
+            label: "Video-Link (YouTube oder Vimeo) - optional"
+            type: string
+            description: "Wenn ausgefüllt, wird beim Antippen statt des Fotos das Video abgespielt. Das Foto dient dann als Vorschaubild."
 
   - name: texts
     label: Texte & Überschriften
