@@ -85,19 +85,7 @@
       "featured": true
     },
     {
-      "image": "/images/branding-05.jpg",
-      "category": "branding",
-      "title": "Air Up",
-      "featured": false
-    },
-    {
       "image": "/images/portraits-05.jpg",
-      "category": "portraits",
-      "title": "Portrait",
-      "featured": false
-    },
-    {
-      "image": "/images/portraits-06.jpg",
       "category": "portraits",
       "title": "Portrait",
       "featured": false
@@ -125,12 +113,6 @@
       "category": "portraits",
       "title": "Portrait",
       "featured": false
-    },
-    {
-      "image": "/images/portraits-11.jpg",
-      "category": "portraits",
-      "title": "Portrait",
-      "featured": true
     },
     {
       "image": "/images/portraits-12.jpg",
@@ -223,12 +205,6 @@
       "featured": false
     },
     {
-      "image": "/images/branding-09.jpg",
-      "category": "branding",
-      "title": "Locke Berlin",
-      "featured": false
-    },
-    {
       "image": "/images/branding-10.jpg",
       "category": "branding",
       "title": "Locke Berlin",
@@ -283,12 +259,6 @@
       "featured": false
     },
     {
-      "image": "/images/events-04.jpg",
-      "category": "events",
-      "title": "Loom Bar — Marienplatz",
-      "featured": false
-    },
-    {
       "image": "/images/events-05.jpg",
       "category": "events",
       "title": "Loom Bar — Marienplatz",
@@ -307,12 +277,6 @@
       "featured": true
     },
     {
-      "image": "/images/events-08.jpg",
-      "category": "events",
-      "title": "Diffrent Times Munich",
-      "featured": false
-    },
-    {
       "image": "/images/events-09.jpg",
       "category": "events",
       "title": "Concert · @Hazesiebensechs",
@@ -326,12 +290,6 @@
     },
     {
       "image": "/images/events-11.jpg",
-      "category": "events",
-      "title": "Concert · @Hazesiebensechs",
-      "featured": true
-    },
-    {
-      "image": "/images/events-12.jpg",
       "category": "events",
       "title": "Concert · @Hazesiebensechs",
       "featured": true
@@ -422,12 +380,6 @@
     },
     {
       "image": "/images/branding-16.jpg",
-      "category": "branding",
-      "title": "Cevapino & Funky Monkey",
-      "featured": false
-    },
-    {
-      "image": "/images/branding-17.jpg",
       "category": "branding",
       "title": "Cevapino & Funky Monkey",
       "featured": false
@@ -529,19 +481,7 @@
       "featured": false
     },
     {
-      "image": "/images/design-05.jpg",
-      "category": "design",
-      "title": "Funky Monkey — Design",
-      "featured": false
-    },
-    {
       "image": "/images/design-06.jpg",
-      "category": "design",
-      "title": "Funky Monkey — Design",
-      "featured": false
-    },
-    {
-      "image": "/images/design-07.jpg",
       "category": "design",
       "title": "Funky Monkey — Design",
       "featured": false
@@ -646,12 +586,6 @@
       "image": "/images/ai-03.jpg",
       "category": "ai",
       "title": "Mahagoni — Festival Trailer",
-      "featured": false
-    },
-    {
-      "image": "/images/ai-04.jpg",
-      "category": "ai",
-      "title": "Twojeys — AI Branding",
       "featured": false
     },
     {
