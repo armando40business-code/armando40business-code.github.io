@@ -28,7 +28,7 @@
       "image": "/images/portraits-04.jpg",
       "category": "portraits",
       "title": "Waldberlin",
-      "featured": false
+      "featured": true
     },
     {
       "image": "/images/jewelry-02.jpg",
@@ -46,7 +46,7 @@
       "image": "/images/jewelry-04.jpg",
       "category": "jewelry",
       "title": "Annalena Steindl",
-      "featured": false
+      "featured": true
     },
     {
       "image": "/images/jewelry-05.jpg",
@@ -64,7 +64,7 @@
       "image": "/images/branding-01.jpg",
       "category": "branding",
       "title": "Air Up",
-      "featured": false
+      "featured": true
     },
     {
       "image": "/images/branding-02.jpg",
@@ -97,16 +97,10 @@
       "featured": false
     },
     {
-      "image": "/images/portraits-06.jpg",
-      "category": "portraits",
-      "title": "Portrait",
-      "featured": false
-    },
-    {
       "image": "/images/portraits-07.jpg",
       "category": "portraits",
       "title": "Portrait",
-      "featured": false
+      "featured": true
     },
     {
       "image": "/images/portraits-08.jpg",
@@ -184,7 +178,7 @@
       "image": "/images/portraits-20.jpg",
       "category": "portraits",
       "title": "Portrait",
-      "featured": false
+      "featured": true
     },
     {
       "image": "/images/portraits-21.jpg",
@@ -220,7 +214,7 @@
       "image": "/images/branding-08.jpg",
       "category": "branding",
       "title": "Locke Berlin",
-      "featured": false
+      "featured": true
     },
     {
       "image": "/images/branding-09.jpg",
@@ -268,7 +262,7 @@
       "image": "/images/events-01.jpg",
       "category": "events",
       "title": "San Beach Dubai",
-      "featured": false
+      "featured": true
     },
     {
       "image": "/images/events-02.jpg",
@@ -529,12 +523,6 @@
       "featured": false
     },
     {
-      "image": "/images/design-05.jpg",
-      "category": "design",
-      "title": "Funky Monkey — Design",
-      "featured": false
-    },
-    {
       "image": "/images/design-06.jpg",
       "category": "design",
       "title": "Funky Monkey — Design",
@@ -650,6 +638,12 @@
     },
     {
       "image": "/images/IMG_6784.jpeg",
+      "category": "events",
+      "title": "DNA Festival Munich ",
+      "featured": false
+    },
+    {
+      "image": "/images/IMG_6565-2.jpeg",
       "category": "events",
       "title": "DNA Festival Munich ",
       "featured": false
