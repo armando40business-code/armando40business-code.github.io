@@ -349,12 +349,6 @@
       "featured": false
     },
     {
-      "image": "/images/events-16.jpg",
-      "category": "events",
-      "title": "DNA Open Air Munich",
-      "featured": false
-    },
-    {
       "image": "/images/events-17.jpg",
       "category": "events",
       "title": "DNA Open Air Munich",
@@ -416,12 +410,6 @@
     },
     {
       "image": "/images/branding-16.jpg",
-      "category": "branding",
-      "title": "Cevapino & Funky Monkey",
-      "featured": false
-    },
-    {
-      "image": "/images/branding-17.jpg",
       "category": "branding",
       "title": "Cevapino & Funky Monkey",
       "featured": false
@@ -504,16 +492,6 @@
       "featured": false
     },
     {
-      "image": "/images/design-02.jpg",
-      "category": "design",
-      "featured": false
-    },
-    {
-      "image": "/images/design-03.jpg",
-      "category": "design",
-      "featured": false
-    },
-    {
       "image": "/images/design-04.jpg",
       "category": "design",
       "title": "Funky Monkey — Design",
@@ -533,12 +511,6 @@
     },
     {
       "image": "/images/design-08.jpg",
-      "category": "design",
-      "title": "Funky Monkey — Design",
-      "featured": false
-    },
-    {
-      "image": "/images/design-12.jpg",
       "category": "design",
       "title": "Funky Monkey — Design",
       "featured": false
@@ -568,18 +540,6 @@
       "featured": false
     },
     {
-      "image": "/images/design-18.jpg",
-      "category": "design",
-      "title": "Funky Monkey — Design",
-      "featured": false
-    },
-    {
-      "image": "/images/design-19.jpg",
-      "category": "design",
-      "title": "Funky Monkey — Design",
-      "featured": false
-    },
-    {
       "image": "/images/design-20.jpg",
       "category": "design",
       "title": "Funky Monkey — Design",
@@ -593,12 +553,6 @@
     },
     {
       "image": "/images/IMG_6782.jpeg",
-      "category": "events",
-      "title": "DNA Festival Munich",
-      "featured": false
-    },
-    {
-      "image": "/images/IMG_6783.jpeg",
       "category": "events",
       "title": "DNA Festival Munich",
       "featured": false
