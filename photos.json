@@ -541,24 +541,6 @@
       "featured": false
     },
     {
-      "image": "/images/design-09.jpg",
-      "category": "design",
-      "title": "Funky Monkey — Design",
-      "featured": false
-    },
-    {
-      "image": "/images/design-10.jpg",
-      "category": "design",
-      "title": "Funky Monkey — Design",
-      "featured": false
-    },
-    {
-      "image": "/images/design-11.jpg",
-      "category": "design",
-      "title": "Funky Monkey — Design",
-      "featured": false
-    },
-    {
       "image": "/images/design-12.jpg",
       "category": "design",
       "title": "Funky Monkey — Design",
@@ -584,12 +566,6 @@
     },
     {
       "image": "/images/design-16.jpg",
-      "category": "design",
-      "title": "Funky Monkey — Design",
-      "featured": false
-    },
-    {
-      "image": "/images/design-17.jpg",
       "category": "design",
       "title": "Funky Monkey — Design",
       "featured": false
@@ -647,6 +623,23 @@
       "category": "events",
       "title": "DNA Festival Munich ",
       "featured": true
+    },
+    {
+      "image": "/images/IMG_7234.jpeg",
+      "category": "branding",
+      "title": "Louis Hotel ",
+      "featured": false
+    },
+    {
+      "image": "/images/IMG_7233.jpeg",
+      "category": "design",
+      "title": "San Beach Dubai",
+      "featured": false
+    },
+    {
+      "image": "/images/IMG_7235.jpeg",
+      "category": "portraits",
+      "featured": false
     }
   ]
 }
