@@ -631,6 +631,12 @@
       "image": "/images/IMG_7235.jpeg",
       "category": "portraits",
       "featured": true
+    },
+    {
+      "image": "/images/IMG_5639.jpeg",
+      "category": "events",
+      "title": "Café Haidhausen",
+      "featured": true
     }
   ]
 }
