@@ -253,12 +253,6 @@
       "featured": false
     },
     {
-      "image": "/images/branding-15.jpg",
-      "category": "branding",
-      "title": "Locke Berlin",
-      "featured": false
-    },
-    {
       "image": "/images/events-01.jpg",
       "category": "events",
       "title": "San Beach Dubai",
@@ -289,12 +283,6 @@
       "featured": false
     },
     {
-      "image": "/images/events-06.jpg",
-      "category": "events",
-      "title": "Diffrent Times Munich",
-      "featured": false
-    },
-    {
       "image": "/images/events-07.jpg",
       "category": "events",
       "title": "Diffrent Times Munich",
@@ -320,24 +308,6 @@
     },
     {
       "image": "/images/events-11.jpg",
-      "category": "events",
-      "title": "Concert · @Hazesiebensechs",
-      "featured": false
-    },
-    {
-      "image": "/images/events-12.jpg",
-      "category": "events",
-      "title": "Concert · @Hazesiebensechs",
-      "featured": false
-    },
-    {
-      "image": "/images/events-13.jpg",
-      "category": "events",
-      "title": "Concert · @Hazesiebensechs",
-      "featured": false
-    },
-    {
-      "image": "/images/events-14.jpg",
       "category": "events",
       "title": "Concert · @Hazesiebensechs",
       "featured": false
