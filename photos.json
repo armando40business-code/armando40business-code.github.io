@@ -501,19 +501,16 @@
     {
       "image": "/images/design-01.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design",
       "featured": false
     },
     {
       "image": "/images/design-02.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design",
       "featured": false
     },
     {
       "image": "/images/design-03.jpg",
       "category": "design",
-      "title": "Funky Monkey — Design",
       "featured": false
     },
     {
@@ -530,8 +527,8 @@
     },
     {
       "image": "/images/design-07.jpg",
-      "category": "design",
-      "title": "Funky Monkey — Design",
+      "category": "events",
+      "title": "Funky Monkey ",
       "featured": false
     },
     {
@@ -607,12 +604,6 @@
       "featured": false
     },
     {
-      "image": "/images/IMG_6781.jpeg",
-      "category": "events",
-      "title": "DNA Festival Munich",
-      "featured": false
-    },
-    {
       "image": "/images/IMG_6784.jpeg",
       "category": "events",
       "title": "DNA Festival Munich ",
@@ -628,7 +619,7 @@
       "image": "/images/IMG_7234.jpeg",
       "category": "branding",
       "title": "Louis Hotel ",
-      "featured": false
+      "featured": true
     },
     {
       "image": "/images/IMG_7233.jpeg",
@@ -639,7 +630,7 @@
     {
       "image": "/images/IMG_7235.jpeg",
       "category": "portraits",
-      "featured": false
+      "featured": true
     }
   ]
 }
