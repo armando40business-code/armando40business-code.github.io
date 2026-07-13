@@ -130,25 +130,76 @@
   <meta name="twitter:title" content="DANI V. — Fotografin & Creative aus München" />
   <meta name="twitter:description" content="Fotografie, Videografie, Branding, Grafikdesign und KI-Visuals aus München." />
   <meta name="twitter:image" content="https://heydani.de/og-image.jpg" />
-  <!-- Strukturierte Daten (Local SEO / GEO) -->
+  <!-- Strukturierte Daten (Local SEO / GEO) — @graph: ProfessionalService + Person + WebSite.
+       Inhalte spiegeln ausschließlich das, was sichtbar auf der Seite steht
+       (Fotografie, Videografie, Branding, Grafikdesign, KI-Visuals; Kategorien
+       Events/Porträts/Schmuck). Die im GEO-Snippet vorgesehene Interior-/Hotel-/
+       Airbnb-Spezialisierung + Fujifilm-Look + Shooting-Pakete stehen NICHT auf
+       der Seite und wurden daher NICHT übernommen (schema darf nur Sichtbares
+       behaupten). FAQPage ausgelassen — die vorgesehenen FAQ-Antworten beziehen
+       sich auf diese (noch) unbelegte Positionierung. -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "ProfessionalService",
-    "name": "DANI V. — Fotografie & Creative",
-    "image": "https://heydani.de/images/about-01.jpg",
-    "url": "https://heydani.de/",
-    "description": "Creative aus München: Fotografie, Videografie, Branding, Grafikdesign und KI-Visuals.",
-    "areaServed": { "@type": "City", "name": "München" },
-    "geo": { "@type": "GeoCoordinates", "latitude": 48.1351, "longitude": 11.5820 },
-    "address": { "@type": "PostalAddress", "addressLocality": "München", "addressRegion": "Bayern", "addressCountry": "DE" },
-    "founder": { "@type": "Person", "name": "Dani V.", "jobTitle": "Photographer & Creative" },
-    "knowsAbout": ["Photography", "Videography", "Branding", "Graphic Design", "AI Visuals"],
-    "sameAs": ["https://instagram.com/dani.dmde/"]
+    "@graph": [
+      {
+        "@type": "ProfessionalService",
+        "@id": "https://heydani.de/#business",
+        "name": "DANI V. — Fotografie & Creative",
+        "description": "Dani V. — Fotografin und Creative aus München: Fotografie, Videografie, Branding, Grafikdesign und KI-Visuals. Cinematische, editoriale Bildwelten — von Porträts und Events über Schmuck bis zu immersiven KI-Filmen.",
+        "url": "https://heydani.de/",
+        "image": "https://heydani.de/og-image.jpg",
+        "email": "danica-vasiljkovic@gmx.de",
+        "founder": { "@id": "https://heydani.de/#dani" },
+        "geo": { "@type": "GeoCoordinates", "latitude": 48.1351, "longitude": 11.5820 },
+        "address": { "@type": "PostalAddress", "addressLocality": "München", "addressRegion": "Bayern", "addressCountry": "DE" },
+        "areaServed": [
+          { "@type": "City", "name": "München" },
+          { "@type": "Place", "name": "Weltweit (auf Anfrage)" }
+        ],
+        "knowsAbout": [
+          "Fotografie",
+          "Videografie",
+          "Porträtfotografie",
+          "Eventfotografie",
+          "Schmuckfotografie",
+          "Branding",
+          "Grafikdesign",
+          "KI-generierte Visuals"
+        ],
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Services",
+          "itemListElement": [
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Fotografie", "description": "Cinematische, editoriale Fotografie — Porträts, Events, Schmuck und mehr." } },
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Videografie", "description": "Bewegtbild und cinematische Clips." } },
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Branding & Grafikdesign", "description": "Visuelle Konzepte, Flyer, Logos und Markenauftritte." } },
+            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "KI-Visuals", "description": "KI-generierte Bildwelten und immersive AI-Filme." } }
+          ]
+        },
+        "sameAs": ["https://instagram.com/dani.dmde/"]
+      },
+      {
+        "@type": "Person",
+        "@id": "https://heydani.de/#dani",
+        "name": "Dani V.",
+        "jobTitle": "Fotografin",
+        "hasOccupation": { "@type": "Occupation", "name": "Photographer" },
+        "url": "https://heydani.de/",
+        "email": "danica-vasiljkovic@gmx.de",
+        "homeLocation": { "@type": "City", "name": "München" },
+        "sameAs": ["https://instagram.com/dani.dmde/"]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://heydani.de/#website",
+        "url": "https://heydani.de/",
+        "name": "heydani — DANI V. Portfolio",
+        "inLanguage": "de-DE",
+        "publisher": { "@id": "https://heydani.de/#dani" }
+      }
+    ]
   }
-  </script>
-  <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"WebSite","name":"DANI V.","url":"https://heydani.de/"}
   </script>
 </head>
 <body>
