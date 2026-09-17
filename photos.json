@@ -596,6 +596,12 @@
       "image": "/images/IMG_1809-1.jpeg",
       "category": "branding",
       "featured": false
+    },
+    {
+      "image": "/images/DSCF3916_VSCO.jpeg",
+      "category": "events",
+      "title": "@ JOLLE ",
+      "featured": false
     }
   ]
 }
