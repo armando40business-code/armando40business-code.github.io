@@ -584,12 +584,17 @@
       "image": "/images/IMG_1806-1.jpeg",
       "category": "design",
       "title": "Bahamas ",
-      "featured": false
+      "featured": true
     },
     {
       "image": "/images/IMG_1805-1.jpeg",
       "category": "branding",
       "title": "Royal Carribian  Cruise Coco Cay ",
+      "featured": true
+    },
+    {
+      "image": "/images/IMG_1809-1.jpeg",
+      "category": "branding",
       "featured": false
     }
   ]
