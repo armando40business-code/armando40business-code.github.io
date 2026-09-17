@@ -573,6 +573,12 @@
       "category": "jewelry",
       "title": "AI Product Photo",
       "featured": true
+    },
+    {
+      "image": "/images/IMG_1808.jpeg",
+      "category": "branding",
+      "title": "Hotel Savony Miami ",
+      "featured": true
     }
   ]
 }
