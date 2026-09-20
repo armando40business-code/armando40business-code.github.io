@@ -102,4 +102,16 @@
     <image:image><image:loc>https://heydani.de/images/IMG_6541-2.jpeg</image:loc><image:title>AI Produktfoto</image:title></image:image>
     <image:image><image:loc>https://heydani.de/images/IMG_6526-1.jpeg</image:loc><image:title>AI Product Photo</image:title></image:image>
   </url>
+  <url>
+    <loc>https://heydani.de/impressum.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://heydani.de/datenschutz.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
 </urlset>
